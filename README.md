@@ -1,4 +1,5 @@
 # AENIX2.0 ( Ai image Generator Web Site )
+AENIX 2.0 is a powerful AI-powered image generator that allows you to create stunning visuals directly from text prompts using Hugging Face models.
 
 1: First Step Download Code 
 
